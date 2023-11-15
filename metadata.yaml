@@ -1,0 +1,27 @@
+_repo: Mary-Russell-Mitford-b-The-tragedy-of-a-blue-stocking_72028
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, William James
+    gutenberg_agent_id: '56504'
+    url: http://www.gutenberg.org/2009/agents/56504
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72028'
+language: en
+pgterms:marc904: https://archive.org/details/maryrussellmitfo00robeiala
+pgterms:marc905: 20200702011026roberts
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: MWS, A. Marshall and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bAndrew Melrose, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mary Russell Mitford : $b The tragedy of a blue stocking'
+url: http://www.gutenberg.org/ebooks/72028
