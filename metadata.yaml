@@ -1,11 +1,16 @@
 _repo: Mary-Russell-Mitford-b-The-tragedy-of-a-blue-stocking_72028
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72028-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, William James
     gutenberg_agent_id: '56504'
     url: http://www.gutenberg.org/2009/agents/56504
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72028#Mary-Russell-Mitford-b-The-tragedy-of-a-blue-stocking
 gutenberg_issued: '2023-11-04'
 identifiers:
   gutenberg: '72028'
